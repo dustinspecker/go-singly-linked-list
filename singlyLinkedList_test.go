@@ -1,4 +1,4 @@
-package singlyLinkedList
+package go_singly_linked_list
 
 import "testing"
 

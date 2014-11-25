@@ -1,5 +1,5 @@
 // Package singlyLinkedList implements a singly linked list
-package singlyLinkedList
+package go_singly_linked_list
 
 // SinglyLinkedList is a singly linked list implementation
 type SinglyLinkedList struct {
